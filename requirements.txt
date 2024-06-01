@@ -1,4 +1,4 @@
-streamlite==1.15.1
+streamlit==1.15.1
 matplotlib==3.5.3
 pandas==1.3.5
 XlsvWriter==3.0.3
