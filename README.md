@@ -7,8 +7,16 @@ Um simples resumo do uso/propósito do projeto.
 Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
 
 # Link para aplicação
-https://telemarketing-knnd.onrender.com
 
+https://telemarketing-1.onrender.com
+
+# My Project
+
+## Demo
+
+### Watch the Video
+[Watch the video]
+https://github.com/PeterMartins18/Telemarketing/blob/main/Streamlite%20project%202.mov
 
 ## Utilização
 
