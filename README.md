@@ -16,7 +16,7 @@ https://telemarketing-1.onrender.com
 
 ### Watch the Video
 [Watch the video]
-https://github.com/PeterMartins18/Telemarketing/blob/main/Streamlite%20project%202.mov
+https://github.com/PeterMartins18/Telemarketing/blob/main/streamlit-app_7.webm
 
 ## Utilização
 
